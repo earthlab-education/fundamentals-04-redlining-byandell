@@ -22,3 +22,7 @@ jupyter nbconvert <your-notebook-name>.ipynb --to markdown --no-input
 ```
 
 You can run it within your notebook as a `%%bash` cell, or in the terminal.
+
+- [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
+- [ESIIL: Redlining and Urban Green Space](https://cu-esiil-edu.github.io/esiil-learning-portal/foundations/notebooks/10-redlining/redlining.html)
+- [The Color of Law by Richard Rothstein](https://www.epi.org/publication/the-color-of-law-a-forgotten-history-of-how-our-government-segregated-america/)
