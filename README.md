@@ -11,11 +11,11 @@ Your changes will then be available to the teaching team to look at.
 
 Once you have finished the notebook(s):
 
-    1. Create a new notebook in your portfolio repository
-    2. Concisely duplicate your analysis in a location and time of your choosing (i.e. only include the code needed to generate the main plot you make)
-    3. Add a headline and description discussing your results
-    4. Convert your notebook to Markdown or HTML.
-    5. Add a link to the live web version to the corresponding table in the class repository. You may also want to add a link to the home page of your portfolio!
+  1. Create a new notebook in your portfolio repository
+  2. Concisely duplicate your analysis in a location and time of your choosing (i.e. only include the code needed to generate the main plot you make)
+  3. Add a headline and description discussing your results
+  4. Convert your notebook to Markdown or HTML.
+  5. Add a link to the live web version to the corresponding table in the class repository. You may also want to add a link to the home page of your portfolio!
 
 The following code may help you to export your analysis:
 
